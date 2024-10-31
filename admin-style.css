@@ -1,0 +1,117 @@
+/*
+*	WPGear. Notice Interceptor
+*	admin-style.css
+*/
+#screen-meta-links {
+	float: right;
+}
+.wrap {
+    clear: both;
+}
+.notice-interceptor_box {
+	position: relative;
+	z-index: 9999;
+    padding: 5px 15px 5px 20px;
+    font-size: 14px;
+    text-align: left;
+	margin: 0px 2px 0px 0px;
+    background-color: #fff;
+    border-left: 4px solid #ffba00;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    display: inline-block;	
+	float: left;
+}
+.notice-interceptor_info_title {
+	font-weight: bold;
+    padding-right: 20px;
+}
+.notice-interceptor_processing {
+	color: grey;
+}
+.notice-interceptor_info_hide {
+	padding-right: 20px;
+}
+.notice-interceptor_info_new {
+	padding-right: 20px;
+}
+.notice-interceptor_footer_box {
+	background: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+.notice-interceptor_footer_header {
+	margin-bottom: 30px;
+}
+.notice-interceptor_footer_header_label {
+	float: left;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.notice-interceptor_footer_header_close {
+	float: right;
+	font-size: large;
+    cursor: pointer;
+}
+.notice-interceptor_footer_hidden {
+	clear: both;
+	position: relative;
+	background: white;
+	border-style: solid;
+    border-radius: 2px;
+    border-width: thin;
+    padding: 10px;
+    margin-top: 20px;
+    border-left: 4px solid royalblue;
+}
+.notice-interceptor_footer_hidden .notice-dismiss {
+	display: none;
+}
+.notice-interceptor_footer_hidden_header {
+	background: #f1f1f1;
+    padding: 5px;
+	margin-bottom: 5px;
+}
+.notice-interceptor_footer_hidden_unread {	    
+    color: red;	
+}
+.notice-interceptor_footer_hidden_read {	    
+    color: grey;	
+}
+.notice-interceptor_footer_hidden_mark_action {
+	color: royalblue;
+	cursor: pointer;
+	padding-left: 20px;
+	padding-right: 10px;
+}
+.notice-interceptor_footer_hidden_header i {
+	margin-left: 10px;
+    color: black;
+}
+.notice-interceptor_footer_signature {
+	font-size: small;
+    color: grey;
+}
+.notice-interceptor_options_box {
+	margin-left: 40px;
+}
+.notice-interceptor_option_customrules {
+	width: 100%;
+}
+.notice-interceptor_option_customrules_sample {
+	background: antiquewhite;
+    padding: 10px;
+    border-radius: 9px;
+    border-style: solid;
+    border-width: thin;
+}
+.notice-interceptor_warning {
+    text-align: center;
+    padding: 10px;
+    font-size: medium;
+    font-weight: normal;
+    color: #000000;
+    border-left: 4px solid orange;
+    background-color: rgba(199, 198, 195, 0.14);
+	margin-bottom: 20px;
+	border-radius: 4px;
+}

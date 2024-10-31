@@ -1,0 +1,108 @@
+#WP-Core
+update-nag
+update-nag notice notice-warning inline
+dashboard_browser_nag
+notice notice-warning
+update-message notice inline notice-warning notice-alt
+
+#All in One SEO Pack
+aioseop-list
+aioseop-about
+aioseop-support
+aioseop_advert aioseop_nopad_all
+
+#Coming Soon Supsystic
+updated notice is-dismissible supsystic-admin-notice
+
+#Duplicator PRO
+error update-nag dpro-admin-notice
+dup-notice-success notice notice-success duplicator-pro-admin-notice is-dismissible
+
+#EnvatoMarket (NinjaTeam)
+njt-wa-ads-wrapper
+
+#Fix Duplicates
+fix-duplicates-asides
+
+#iThemes Security
+updated itsec-notice
+postbox itsec-sidebar-widget
+
+#Gravity Forms
+gform-settings-header
+gf-notice
+notice notice-warning is-dismissible
+gf_dashboard_message
+
+#GravityView
+notice updated
+notice error
+notice notice notice-warning gv-license-warning
+
+#GravityFlow 
+notice below-h1 notice-error is-dismissible
+
+#MetaSlider
+ms-postbox callout-box
+wrap metaslider-ui-top
+
+#MonsterInsights
+yoast-ga-banners
+monsterinsights-upsell monsterinsights-upsell-large
+monsterinsights-notice monsterinsights-notice-success
+monsterinsights-notice-inner
+
+#My Maps
+updated wpgmza_nag_review_div
+
+#Popup Maker
+pum-notice-bar-wrapper
+pum-alerts
+
+#RSS Mailchimp
+headerDiv
+firss-premium-column2
+footer-notes
+updated promotion fs-notice fs-sticky fs-has-title fs-slug-featured-images-for-rss-feeds fs-type-plugin
+
+#ShortCodes Ultimate
+su-admin-c-notice-pro
+su-admin-about-page-header
+su-admin-about-getting-started-video
+su-admin-about-upgrade
+
+#StCR (subscribe_reloaded)
+nav-tab nav-tab-inactive donate-tab
+
+#TablePress
+notice notice-info not-dismissible
+notice notice-success not-dismissible
+
+#Ultimate Member
+error um-admin-notice notice
+
+#UpdraftPlus
+updraft-dashnotice
+updraft-ad-container updated
+
+#Woocommerce
+updated woocommerce-message
+woocommerce-layout__header
+woocommerce-layout__activity-panel
+
+#WP Google Fonts
+wp_google_fonts_global_notification
+
+#WP Mail SMTP
+notice wp-mail-smtp-notice notice-error notice 
+wp-mail-smtp-header
+
+#WP to Twitter
+postbox-container jcd-narrow
+
+#Yellow Pencil
+update-nag yp-update-info-bar
+updated notice yellowpencil-notice
+
+#Theme Padma
+notice notice-warning settings-error is-dismissible
